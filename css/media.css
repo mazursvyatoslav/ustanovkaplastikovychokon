@@ -1,0 +1,53 @@
+@media only screen and (max-width : 1200px) {
+.prev {padding-top: 25.5%;}
+.next{padding-top: 25.5%;left: -18px;}
+.section-6{background: #fff;}
+.section-1 h2{    font-size: 45px;}
+.advantages-content-wrap div p span {font-size: 15px;}
+.advantages-content-wrap div img {height: 125px;width: 125px;left: -6px;top: 0px;}
+.advantages-content-wrap div p {padding: 10px 7px 0px 108px;font-size: 13px;}
+@media only screen and (max-width : 992px) {
+.prev {padding-top: 1%;}
+.next{padding-top: 1%;}
+.section-10 {padding: 65px 0 40px 0;}
+.section-7 {padding: 65px 0 40px 0;}
+.advantages-wrap {margin: 55px auto;}
+}
+
+@media only screen and (max-width : 767px) {
+table{width: 100%;}
+.form-modal-write-text input{width: 100%;}
+.fourinput {position: relative!important; top: 0!important;}
+.write-text .remodal-close {top: 0px!important;right: 2px!important;color: #000;}
+.remodal-close {top: -36px!important;right: -7px!important;}
+.section-1 h2{text-align: center;}
+.prev {position: absolute;left: 0;}
+.next{position: absolute;left: 63px;}
+.prev button{border-bottom-right-radius: 0px;border-top-right-radius: 0px;border: none;}
+.next button{border-bottom-left-radius: 0px;border-top-left-radius: 0px;border: none;}
+.section-10 {padding: 65px 0 120px 0;}
+.section-7 {padding: 65px 0 120px 0;}
+.form-two input:nth-child(1){margin-right: 0px;}
+.form-two input:nth-child(2){margin-left: 0px;}
+}
+@media only screen and (max-width : 540px) {
+.dg-wrapper { left: -18px;}
+}
+@media only screen and (max-width : 500px) {
+.dg-wrapper { left: -38px;}
+footer div:nth-child(3) {margin-top: 40px;}
+h2 {font-size: 39px;line-height: 45px;}
+}
+@media only screen and (max-width : 400px) {
+	.section-1 h2{    font-size: 31px;}
+h1 {font-size: 24px;top: 32px;left: 78px;}
+header img {width: 110px;}
+.advantages-wrap {width: 100%;}
+h2 {font-size: 30px;line-height: 37px;}
+.form-three input {width: 100%;}
+.company-logo-wrap h1 {font-size: 23px;top: 47px;line-height: 24px;}
+.section-6-right h2 {margin-left: 0px;text-align: center;}
+.section-6-right h5 { margin-left: 0px;text-align: center;}
+}
+
+
